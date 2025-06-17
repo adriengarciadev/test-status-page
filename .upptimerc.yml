@@ -28,5 +28,8 @@ status-website:
   customFootHtml: "<div>Custom HTML to add at the end of body</div>"
 i18n:
   footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>Powered by [Upptime](https://upptime.js.org)
+  liveStatus: "Live Status test"
+  liveStatusHtmlComment: "<p>Comment live status</p>"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
