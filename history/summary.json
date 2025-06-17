@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/adriengarciadev.fr.ico",
     "slug": "adrien-garcia-dev",
     "status": "up",
-    "uptime": "89.08%",
-    "uptimeDay": "89.08%",
-    "uptimeWeek": "89.08%",
-    "uptimeMonth": "89.08%",
-    "uptimeYear": "89.08%",
-    "time": 376,
-    "timeDay": 376,
-    "timeWeek": 376,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "uptime": "87.65%",
+    "uptimeDay": "87.65%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "87.65%",
+    "uptimeYear": "87.65%",
+    "time": 380,
+    "timeDay": 380,
+    "timeWeek": 380,
+    "timeMonth": 380,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-06-17": 131
+      "2025-06-17": 150
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 123,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "time": 121,
+    "timeDay": 121,
+    "timeWeek": 121,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]
