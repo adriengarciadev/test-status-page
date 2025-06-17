@@ -9,7 +9,7 @@ sites:
     url: $SECRET_SITE
 
 status-website:
-  theme: light
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.adriengarciadev.fr
@@ -26,6 +26,7 @@ status-website:
   customHeadHtml: "<div>Custom HTML to add in the head tag</div>"
   customBodyHtml: "<div>Custom HTML to add at the beginning of body</div>"
   customFootHtml: "<div>Custom HTML to add at the end of body</div>"
-
+i18n:
+  footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>Powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
