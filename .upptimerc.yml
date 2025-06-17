@@ -22,9 +22,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customHeadHtml: "Custom HTML to add in the head tag"
-  customBodyHtml: "Custom HTML to add at the beginning of body"
-  customFootHtml: "Custom HTML to add at the end of body"
+  customHeadHtml: "<div>Custom HTML to add in the head tag</div>"
+  customBodyHtml: "<div>Custom HTML to add at the beginning of body</div>"
+  customFootHtml: "<div>Custom HTML to add at the end of body</div>"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
