@@ -1,23 +1,21 @@
 [
   {
-    "name": "AdrienGarciaDev",
+    "name": "THIS",
     "url": "https://adriengarciadev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/adriengarciadev.fr.ico",
-    "slug": "adrien-garcia-dev",
+    "slug": "this",
     "status": "up",
-    "uptime": "83.46%",
-    "uptimeDay": "83.46%",
-    "uptimeWeek": "83.46%",
-    "uptimeMonth": "83.46%",
-    "uptimeYear": "83.46%",
-    "time": 399,
-    "timeDay": 399,
-    "timeWeek": 399,
-    "timeMonth": 399,
-    "timeYear": 399,
-    "dailyMinutesDown": {
-      "2025-06-17": 212
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 650,
+    "timeDay": 650,
+    "timeWeek": 650,
+    "timeMonth": 650,
+    "timeYear": 650,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 123,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "time": 129,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   }
 ]
