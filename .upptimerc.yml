@@ -3,31 +3,45 @@ owner: adriengarciadev # Your GitHub organization or username, where this reposi
 repo: test-status-page # The name of this repository
 
 sites:
-  - name: THIS
-    url: https://adriengarciadev.fr
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: WeWeb Dashboard
+    url: https://dashboard.weweb.io/
+    icon: https://status.weweb.io/weweb-logo-icon-white.svg
+  - name: WeWeb Editor
+    url: https://editor.weweb.io/
+    icon: https://status.weweb.io/weweb-logo-icon-white.svg
+  - name: WeWeb Published Websites (weweb-preview.io domain)
+    url: https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/
+    icon: https://status.weweb.io/weweb-logo-icon-white.svg
+  - name: WeWeb Published Websites (Custom domain)
+    url: https://health-check.weweb.io
+    icon: https://status.weweb.io/weweb-logo-icon-white.svg
+  - name: Xano (third-party)
+    url: https://app.xano.com/
+  - name: Supabase (third-party)
+    url: https://supabase.com/dashboard/org
+    
+i18n:
+  footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>[WeWeb](https://weweb.io) status page, powered by [Upptime](https://upptime.js.org)
+  liveStatus: System status
+  allSystemsOperational: "All systems are operational 🟢"
 
 status-website:
   theme: dark
+  favicon: https://status.weweb.io/weweb-logo-icon-white.svg
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.adriengarciadev.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: THIS
-  introTitle: "**THIS** is a website."
-  introMessage: "This is a test<br>This is another"
+  logoUrl: https://status.weweb.io/weweb-logo-wordmark-white.svg
+  name: ""
+  introTitle: ""
+  introMessage: ""
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-i18n:
-  footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>Powered by [Upptime](https://upptime.js.org)
-  liveStatusHtmlComment: "<p>Comment live status</p>"
-  allSystemsOperational: "Works fine"
-  liveStatus: System status
+  links:
+    - rel: stylesheet
+      href: https://status.weweb.io/style.css
+  scripts:
+    - src: https://status.weweb.io/onload.js
 
 
 # Upptime also supports notifications, assigning issues, and more
