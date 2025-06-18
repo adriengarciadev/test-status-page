@@ -10,15 +10,15 @@ sites:
     url: https://thissitedoesnotexist.koj.co
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
   - name: WeWeb Published Websites (weweb-preview.io domain)
-    url: https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/
+    url: https://thissitedoesnotexist.koj.co
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
   - name: WeWeb Published Websites (Custom domain)
-    url: https://health-check.weweb.io
+    url: https://thissitedoesnotexist.koj.co
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
   - name: Xano (third-party)
-    url: https://app.xano.com/
+    url: https://thissitedoesnotexist.koj.co
   - name: Supabase (third-party)
-    url: https://supabase.com/dashboard/org
+    url: https://thissitedoesnotexist.koj.co
     
 i18n:
   footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>[WeWeb](https://weweb.io) status page, powered by [Upptime](https://upptime.js.org)
