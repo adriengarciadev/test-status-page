@@ -4,10 +4,10 @@ repo: test-status-page # The name of this repository
 
 sites:
   - name: WeWeb Dashboard
-    url: https://dashboard.weweb.io/
+    url: https://thissitedoesnotexist.koj.co
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
   - name: WeWeb Editor
-    url: https://editor.weweb.io/
+    url: https://thissitedoesnotexist.koj.co
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
   - name: WeWeb Published Websites (weweb-preview.io domain)
     url: https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/
