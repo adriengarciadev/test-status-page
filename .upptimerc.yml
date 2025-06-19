@@ -3,46 +3,33 @@ owner: adriengarciadev # Your GitHub organization or username, where this reposi
 repo: test-status-page # The name of this repository
 
 sites:
-  - name: WeWeb Dashboard
-    url: https://thissitedoesnotexist.koj.co
-    icon: https://status.weweb.io/weweb-logo-icon-white.svg
-  - name: WeWeb Editor
-    url: https://thissitedoesnotexist.koj.co
-    icon: https://status.weweb.io/weweb-logo-icon-white.svg
-  - name: WeWeb Published Websites (weweb-preview.io domain)
-    url: https://thissitedoesnotexist.koj.co
-    icon: https://status.weweb.io/weweb-logo-icon-white.svg
-  - name: WeWeb Published Websites (Custom domain)
-    url: https://thissitedoesnotexist.koj.co
-    icon: https://status.weweb.io/weweb-logo-icon-white.svg
-  - name: Xano (third-party)
-    url: https://thissitedoesnotexist.koj.co
-  - name: Supabase (third-party)
-    url: https://thissitedoesnotexist.koj.co
-    
-i18n:
-  footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>[WeWeb](https://weweb.io) status page, powered by [Upptime](https://upptime.js.org)
-  liveStatus: System status
-  allSystemsOperational: "All systems are operational 🟢"
+  - name: AdrienGarciaDev
+    url: https://adriengarciadev.fr
+  - name: Secret Site
+    url: $SECRET_SITE
 
 status-website:
-  theme: dark
-  favicon: https://status.weweb.io/weweb-logo-icon-white.svg
+  theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.adriengarciadev.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://status.weweb.io/weweb-logo-wordmark-white.svg
-  name: ""
-  introTitle: ""
-  introMessage: ""
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: AdrienGarciaDev
+  introTitle: "**AdrienGarciaDev** is a website."
+  introMessage: "This is a test<br>This is another"
   navbar:
-  links:
-    - rel: stylesheet
-      href: https://status.weweb.io/style.css
-  scripts:
-    - src: https://status.weweb.io/onload.js
-
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+  customHeadHtml: "<div>Custom HTML to add in the head tag</div>"
+  customBodyHtml: "<div>Custom HTML to add at the beginning of body</div>"
+  customFootHtml: "<div>Custom HTML to add at the end of body</div>"
+i18n:
+  footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>Powered by [Upptime](https://upptime.js.org)
+  liveStatus: "Live Status test"
+  liveStatusHtmlComment: "<p>Comment live status</p>"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
