@@ -5,36 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/adriengarciadev.fr.ico",
     "slug": "adrien-garcia-dev",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 411,
-    "timeDay": 510,
-    "timeWeek": 411,
-    "timeMonth": 411,
-    "timeYear": 411,
-    "dailyMinutesDown": {
-      "2025-06-17": 213
-    }
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "secret-site",
-    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 138,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 415,
+    "timeDay": 508,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   }
 ]
