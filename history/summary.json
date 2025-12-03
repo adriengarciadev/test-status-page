@@ -4,7 +4,7 @@
     "url": "https://adriengarciadev.fr",
     "icon": "https://icons.duckduckgo.com/ip3/adriengarciadev.fr.ico",
     "slug": "adrien-garcia-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.51%",
     "time": 614,
     "timeDay": 538,
-    "timeWeek": 2613,
+    "timeWeek": 522,
     "timeMonth": 1013,
     "timeYear": 614,
     "dailyMinutesDown": {
